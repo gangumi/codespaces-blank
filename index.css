@@ -77,4 +77,7 @@ body {
     padding: 10px;
     text-align: center;
   }
-  
+  #my-video {
+    display: block;
+    margin: 0 auto;
+  }
