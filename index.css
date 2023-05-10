@@ -7,7 +7,7 @@ body {
   
   /* Stile per l'intestazione del sito */
   header {
-    background-color: #004d99;
+    background-color:#006699 ;
     color: #fff;
     padding: 20px;
   }
@@ -80,4 +80,12 @@ body {
   #my-video {
     display: block;
     margin: 0 auto;
+  }
+
+  .rettangolo-cliccabile {
+    width: 100px;
+    height: 50px;
+    background-color: #ccc;
+    border: 1px solid #000;
+    padding: 10px;
   }
